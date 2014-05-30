@@ -1,7 +1,7 @@
 {
   "name": "info_2008-2009",
   "version": "0.1.0",
-  "description": "A small script that downloads subject models for computer science baccalaureate",
+  "description": "A small script that downloads subject models for computer science baccalaureate exams.",
   "main": "index.js",
   "dependencies": {
     "request": "^2.36.0"
