@@ -10,6 +10,9 @@ $ cd baccalaureate-computer-science
 $ npm install
 ```
 
+## How to use
+Run `node index` in the main directory and wait pdf files to be downloaded. They will be downloaded in `downloaded` directory.
+
 ## How to contribute
 
 1. File an issue in the repository, using the bug tracker, describing the
