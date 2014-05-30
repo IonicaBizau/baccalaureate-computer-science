@@ -1,12 +1,12 @@
-# info_2008-2009
+# baccalaureate-computer-science
 A small script that downloads subject models for computer science baccalaureate exams.
 
 ## Installation
 Run the following commands to download and install the application:
 
 ```sh
-$ git clone git@github.com:IonicaBizau/baccalaureate-computer-science.git info_2008-2009
-$ cd info_2008-2009
+$ git clone git@github.com:IonicaBizau/baccalaureate-computer-science.git baccalaureate-computer-science
+$ cd baccalaureate-computer-science
 $ npm install
 ```
 
