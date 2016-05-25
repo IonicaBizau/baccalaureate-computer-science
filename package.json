@@ -1,6 +1,6 @@
 {
   "name": "baccalaureate-computer-science",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A small script that downloads subject models for computer science baccalaureate exams.",
   "main": "index.js",
   "dependencies": {
@@ -48,6 +48,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
