@@ -1,5 +1,7 @@
 
-# baccalaureate-computer-science [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/baccalaureate-computer-science.svg)](https://www.npmjs.com/package/baccalaureate-computer-science) [![Downloads](https://img.shields.io/npm/dt/baccalaureate-computer-science.svg)](https://www.npmjs.com/package/baccalaureate-computer-science) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
+# baccalaureate-computer-science
+
+ [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![AMA](https://img.shields.io/badge/ask%20me-anything-1abc9c.svg)](https://github.com/IonicaBizau/ama) [![Version](https://img.shields.io/npm/v/baccalaureate-computer-science.svg)](https://www.npmjs.com/package/baccalaureate-computer-science) [![Downloads](https://img.shields.io/npm/dt/baccalaureate-computer-science.svg)](https://www.npmjs.com/package/baccalaureate-computer-science) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > A small script that downloads subject models for computer science baccalaureate exams.
 
