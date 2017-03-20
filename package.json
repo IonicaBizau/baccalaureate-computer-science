@@ -1,6 +1,6 @@
 {
   "name": "baccalaureate-computer-science",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "A small script that downloads subject models for computer science baccalaureate exams.",
   "main": "index.js",
   "dependencies": {
@@ -20,7 +20,7 @@
     "science",
     "models"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/baccalaureate-computer-science/issues"
@@ -44,12 +44,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
