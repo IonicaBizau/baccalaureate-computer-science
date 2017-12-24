@@ -17,6 +17,7 @@ npm i
 node index
 ```
 
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
